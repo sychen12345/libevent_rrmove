@@ -1,0 +1,12 @@
+Log file created at: 2021/11/29 08:29:29
+Running on machine: ecs-213609
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20211129 08:29:29.605571 31167 worker_threads.cpp:25] create  139921271072512  1
+I20211129 08:29:29.615700 31168 worker_threads.cpp:25] create  139921262679808  2
+I20211129 08:29:29.625864 31169 worker_threads.cpp:25] create  139921254287104  3
+I20211129 08:29:29.636023 31170 worker_threads.cpp:25] create  139921176131328  4
+I20211129 08:29:29.646173 31171 worker_threads.cpp:25] create  139921167738624  5
+I20211129 08:29:43.376992 31166 events_cb.cpp:9] create task
+I20211129 08:29:43.377020 31166 xthread_pool.cpp:35] signal threads0
+I20211129 08:33:05.192731 31166 events_cb.cpp:9] create task

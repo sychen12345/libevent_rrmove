@@ -1,0 +1,5 @@
+Log file created at: 2021/11/28 19:05:32
+Running on machine: ecs-213609
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20211128 19:05:32.935909 26984 worker_threads.cpp:25] create  140422231930624  1

@@ -1,0 +1,34 @@
+[INFO ][2021/11/26 15:44:34:996][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:007][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:018][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:028][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:038][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:049][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:059][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:069][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:079][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:44:35:089][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140711197804352] threads create --->10
+[INFO ][2021/11/26 15:46:19:027][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:037][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:047][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:058][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:068][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:078][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:088][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:098][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:108][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 15:46:19:118][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][139623670282048] threads create --->139623670282048
+[INFO ][2021/11/26 16:04:55:806][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:818][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:828][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:838][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:848][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:859][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:869][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:879][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:889][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:04:55:899][/home/chen/libevent_test/test9/xthread_pool/xthread_pool.cpp:19][140737354020672] threads create --->140737354020672
+[INFO ][2021/11/26 16:57:42:798][/home/chen/libevent_test/test9/main.cpp:16][140737354020672] aaaabv
+[INFO ][2021/11/26 16:57:45:967][/home/chen/libevent_test/test9/main.cpp:16][140737354020672] aaaabv
+[INFO ][2021/11/26 16:58:06:058][/home/chen/libevent_test/test9/xthread_pool/worker_threads.cpp:21][140737297123072] abcdef
+[INFO ][2021/11/26 16:58:32:992][/home/chen/libevent_test/test9/xthread_pool/worker_threads.cpp:21][140737297123072] abcdef

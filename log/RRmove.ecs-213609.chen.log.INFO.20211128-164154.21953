@@ -1,0 +1,7 @@
+Log file created at: 2021/11/28 16:41:54
+Running on machine: ecs-213609
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20211128 16:41:54.834259 21953 main.cpp:29]  i am 0
+I20211128 16:41:54.834807 21953 main.cpp:30]  i am 1
+I20211128 16:41:54.834892 21953 main.cpp:31]  i am 2
